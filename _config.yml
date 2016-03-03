@@ -1,0 +1,28 @@
+name: bawagar
+favicon: null
+layout_spectrum: 0.7514770985580981
+typography_spectrum: 0.6558534833602607
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.616360260406509
+  lightness: 0.714746140409261
+  saturation: 0.5599348368123174
+  rhythmicContrast: 0.6405637213028967
+purpose: []
